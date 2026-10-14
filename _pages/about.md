@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am Tousif Raza, a PhD student in physics at Oklahoma State University. My research interests lie in **particle astrophysics** and **theoretical quantum science**.
+I am Tousif Raza, a PhD student in physics at Oklahoma State University. My research interests lie in **particle astrophysics(Neutrinos, Dark Matter, BSM Physics)** and **theoretical quantum science(Quantum Many-Body, Quantum Information, Quantum Computing)**.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
