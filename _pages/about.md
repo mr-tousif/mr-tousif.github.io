@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-Physics is a interesting subject. I enjoy doing **particle astrophysics (Neutrinos, Dark Matter, BSM Physics, Particle Cosmology)** and **theoretical quantum science(Quantum Many-Body Dynamics, Quantum Information, Quantum Computing)**.
+I enjoy exploring theoretical physics and its phenomenological applications. My research interests span **particle astrophysics (Neutrinos, dark matter, physics beyond the Standard Model, and particle cosmology)** and **theoretical quantum science (quantum many-body dynamics, quantum information, and quantum computing)**. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
